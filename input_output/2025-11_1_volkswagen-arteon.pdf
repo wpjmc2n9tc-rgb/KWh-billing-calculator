@@ -1,0 +1,83 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [5 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 1184 >>
+stream
+BT
+/F1 10 Tf
+48 800 Td
+(Volkswagen Arteon charging summary 2025-11) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Vehicle: Volkswagen Arteon \(1\)) Tj
+0 -14 Td
+(Month: 2025-11) Tj
+0 -14 Td
+(Price per kWh: EUR 0.38) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Timestamp | kWh | EUR) Tj
+0 -14 Td
+(2025-11-02T19:44:00+01:00 | 0.000 kWh | EUR 0.00) Tj
+0 -14 Td
+(2025-11-02T21:09:00+01:00 | 0.000 kWh | EUR 0.00) Tj
+0 -14 Td
+(2025-11-04T07:31:00+01:00 | 3.900 kWh | EUR 1.48) Tj
+0 -14 Td
+(2025-11-05T16:44:00+01:00 | 0.000 kWh | EUR 0.00) Tj
+0 -14 Td
+(2025-11-08T22:38:00+01:00 | 5.200 kWh | EUR 1.97) Tj
+0 -14 Td
+(2025-11-09T17:21:00+01:00 | 0.000 kWh | EUR 0.00) Tj
+0 -14 Td
+(2025-11-17T07:30:00+01:00 | 0.500 kWh | EUR 0.19) Tj
+0 -14 Td
+(2025-11-19T12:07:00+01:00 | 2.500 kWh | EUR 0.95) Tj
+0 -14 Td
+(2025-11-20T00:35:00+01:00 | 2.900 kWh | EUR 1.10) Tj
+0 -14 Td
+(2025-11-26T17:32:00+01:00 | 2.100 kWh | EUR 0.80) Tj
+0 -14 Td
+(2025-11-27T00:16:00+01:00 | 2.600 kWh | EUR 0.99) Tj
+0 -14 Td
+(2025-11-29T18:46:00+01:00 | 1.200 kWh | EUR 0.45) Tj
+0 -14 Td
+(2025-11-30T19:36:00+01:00 | 0.000 kWh | EUR 0.00) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Transactions: 13) Tj
+0 -14 Td
+(Total kWh: 20.900 kWh) Tj
+0 -14 Td
+(Total EUR: 7.93) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000001427 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1553
+%%EOF

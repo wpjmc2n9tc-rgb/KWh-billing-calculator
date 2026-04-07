@@ -1,0 +1,97 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [5 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 1626 >>
+stream
+BT
+/F1 10 Tf
+48 800 Td
+(Volkswagen Arteon charging summary 2025-05) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Vehicle: Volkswagen Arteon \(1\)) Tj
+0 -14 Td
+(Month: 2025-05) Tj
+0 -14 Td
+(Price per kWh: EUR 0.38) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Timestamp | kWh | EUR) Tj
+0 -14 Td
+(2025-05-03T12:38:00+02:00 | 1.100 kWh | EUR 0.42) Tj
+0 -14 Td
+(2025-05-03T16:37:00+02:00 | 3.400 kWh | EUR 1.29) Tj
+0 -14 Td
+(2025-05-05T18:35:00+02:00 | 0.700 kWh | EUR 0.27) Tj
+0 -14 Td
+(2025-05-07T16:31:00+02:00 | 1.000 kWh | EUR 0.38) Tj
+0 -14 Td
+(2025-05-10T12:17:00+02:00 | 5.400 kWh | EUR 2.05) Tj
+0 -14 Td
+(2025-05-11T12:26:00+02:00 | 3.100 kWh | EUR 1.17) Tj
+0 -14 Td
+(2025-05-13T07:31:00+02:00 | 4.000 kWh | EUR 1.52) Tj
+0 -14 Td
+(2025-05-13T18:25:00+02:00 | 1.300 kWh | EUR 0.49) Tj
+0 -14 Td
+(2025-05-13T22:49:00+02:00 | 1.800 kWh | EUR 0.68) Tj
+0 -14 Td
+(2025-05-14T16:33:00+02:00 | 1.000 kWh | EUR 0.38) Tj
+0 -14 Td
+(2025-05-16T13:52:00+02:00 | 0.900 kWh | EUR 0.34) Tj
+0 -14 Td
+(2025-05-17T13:25:00+02:00 | 0.800 kWh | EUR 0.30) Tj
+0 -14 Td
+(2025-05-17T17:04:00+02:00 | 1.100 kWh | EUR 0.42) Tj
+0 -14 Td
+(2025-05-18T08:50:00+02:00 | 2.400 kWh | EUR 0.91) Tj
+0 -14 Td
+(2025-05-21T08:04:00+02:00 | 2.100 kWh | EUR 0.80) Tj
+0 -14 Td
+(2025-05-21T17:38:00+02:00 | 2.100 kWh | EUR 0.80) Tj
+0 -14 Td
+(2025-05-21T20:06:00+02:00 | 1.400 kWh | EUR 0.53) Tj
+0 -14 Td
+(2025-05-21T22:29:00+02:00 | 1.900 kWh | EUR 0.72) Tj
+0 -14 Td
+(2025-05-24T15:26:00+02:00 | 8.300 kWh | EUR 3.15) Tj
+0 -14 Td
+(2025-05-28T15:16:00+02:00 | 1.900 kWh | EUR 0.72) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Transactions: 20) Tj
+0 -14 Td
+(Total kWh: 45.700 kWh) Tj
+0 -14 Td
+(Total EUR: 17.34) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000001869 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1995
+%%EOF
