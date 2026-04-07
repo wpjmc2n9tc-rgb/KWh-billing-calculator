@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini Factory</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="panel">
+        <h1>Mini Factory</h1>
+        <p class="subtitle">Ein kleines Factorio-inspiriertes Fabrikspiel direkt im Browser.</p>
+      </div>
+
+      <div class="panel">
+        <h2>Bauen</h2>
+        <div class="toolbar" id="toolbar"></div>
+        <p class="hint">Linksklick baut. Rechtsklick entfernt. Mit `R` drehst du die Richtung.</p>
+      </div>
+
+      <div class="panel">
+        <h2>Inventar</h2>
+        <div class="stats" id="inventory"></div>
+      </div>
+
+      <div class="panel">
+        <h2>Ziel</h2>
+        <p id="goalText"></p>
+      </div>
+
+      <div class="panel">
+        <h2>Legende</h2>
+        <ul class="legend">
+          <li>Erzquellen liefern `Erz`.</li>
+          <li>`Miner` erzeugen Erz aus einer Quelle.</li>
+          <li>`Bänder` bewegen Items in Pfeilrichtung.</li>
+          <li>`Ofen` wandelt Erz zu Platten um.</li>
+          <li>`Assembler` baut Zahnräder aus Platten.</li>
+          <li>`Lager` sammelt fertige Teile.</li>
+        </ul>
+      </div>
+    </aside>
+
+    <main class="main">
+      <div class="topbar">
+        <div>
+          <strong>Auswahl:</strong> <span id="selectedTool"></span>
+        </div>
+        <div>
+          <strong>Richtung:</strong> <span id="rotationLabel"></span>
+        </div>
+        <div>
+          <strong>Status:</strong> <span id="statusText"></span>
+        </div>
+      </div>
+
+      <div class="board-wrap">
+        <canvas id="gameCanvas" width="960" height="640"></canvas>
+      </div>
+    </main>
+  </div>
+
+  <script src="game.js"></script>
+</body>
+</html>
